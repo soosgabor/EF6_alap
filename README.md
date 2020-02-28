@@ -1,2 +1,3 @@
 # EF6_alap
 sablon
+Na és...
